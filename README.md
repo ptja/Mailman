@@ -1,7 +1,7 @@
 # Mailman
 Atttiny85/Digispark (Digistump) based project to notify me if my phisical mailbox was opene (i.e. mailman put something in it).
 
-Having new house for a year I still don't have a habit to check my mailbox frequently. So I thought I can build a circuit to notify my that someone opened the slot (and probably put something to my mailbox).
+Having new house for a year I still don't have a habit to check my mailbox frequently. So I thought I can build a circuit to notify my when someone have opened the slot (and probably put something to my mailbox).
 
 So the plan was prepared:
 - the thing will be powered by Li-Ion cell (I have some recycled from dead laptop battery packs)
